@@ -1,10 +1,10 @@
-# Integrating distance sampling and presence-only data to estimate species abundance
+# [Integrating distance sampling and presence-only data to estimate species abundance](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3204)
 
 ### [Matthew T. Farr](https://farrmt.github.io/), [David S. Green](https://inr.oregonstate.edu/people/david-green), [Kay E. Holekamp](http://www.holekamplab.org/), & [Elise F. Zipkin](https://ezipkin.github.io/)
 
 ### Ecology
 
-### Code/Data DOI:
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3981241.svg)](https://doi.org/10.5281/zenodo.3981241)
 
 ### Please contact the first author for questions about the code or data: Matthew T. Farr (matthewtfarr@gmail.com)
 __________________________________________________________________________________________________________________________________________
